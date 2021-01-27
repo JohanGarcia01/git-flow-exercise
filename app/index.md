@@ -1,5 +1,5 @@
 # _Flavor_ Magazine
-
+# Hello word 
 Welcome to _Flavor_, the only place on the planet where your taste buds won't be disappointed!
 
 
